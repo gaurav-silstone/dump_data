@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(917710,2,3,'duct , hepatic','hepatic');
 INSERT INTO cui_terms VALUES(917710,1,2,'liver duct','duct');
 INSERT INTO cui_terms VALUES(917710,1,2,'hepatic ducts','ducts');

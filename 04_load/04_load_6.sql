@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(1272353,2,7,'disorder of vitamin k > 1 <','vitamin');
 INSERT INTO cui_terms VALUES(1272353,3,4,'disorder of vitamin k1','k1');
 INSERT INTO cui_terms VALUES(1272352,2,7,'deficiency of vitamin d > 3 <','vitamin');

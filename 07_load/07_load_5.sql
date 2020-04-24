@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO PREFTERM VALUES(1443925,'Multi-locus variable-number of tandem repeat analysis');
 INSERT INTO PREFTERM VALUES(1443923,'Oral rehydration solution');
 INSERT INTO PREFTERM VALUES(1443920,'Isolation precautions');

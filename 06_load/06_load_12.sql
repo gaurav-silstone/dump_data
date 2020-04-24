@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO PREFTERM VALUES(572964,'Chlordiazepoxide overdose');
 INSERT INTO PREFTERM VALUES(572965,'Accidental chlordiazepoxide overdose');
 INSERT INTO PREFTERM VALUES(572966,'Chlordiazepoxide overdose of undetermined intent');

@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(599654,3,4,'gums , nicotine chewing','chewing');
 INSERT INTO cui_terms VALUES(599654,1,3,'nicotine chewing gum','chewing');
 INSERT INTO cui_terms VALUES(599654,1,3,'nicotine chewing gums','chewing');

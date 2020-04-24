@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(554093,0,3,'burhenne gallstone extraction','burhenne');
 INSERT INTO cui_terms VALUES(554093,4,6,'t - tube track gallstone extraction','gallstone');
 INSERT INTO cui_terms VALUES(554093,0,4,'burhenne ''s gallstone extraction','burhenne');

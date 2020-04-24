@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO PREFTERM VALUES(50445,'Acetoacetic acid');
 INSERT INTO PREFTERM VALUES(50446,'acetoacetyl CoA');
 INSERT INTO PREFTERM VALUES(50447,'acetoacetyl-CoA hydrolase');

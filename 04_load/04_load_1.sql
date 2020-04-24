@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(622653,3,4,'hb g - chinese','chinese');
 INSERT INTO cui_terms VALUES(622653,3,9,'hb 30 ( b11 ) , glu - gln','b11');
 INSERT INTO cui_terms VALUES(622653,3,4,'hemoglobin g - honolulu','honolulu');

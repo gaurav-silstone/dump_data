@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO PREFTERM VALUES(2732546,'Edema of calf');
 INSERT INTO PREFTERM VALUES(2732549,'Positron emission tomography using fluorodeoxyglucose with computed tomography myocardial rest imaging');
 INSERT INTO PREFTERM VALUES(2732548,'Fluoroscopic superselective angiography of cerebral artery using contrast');

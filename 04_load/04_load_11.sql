@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(1641846,0,6,'granular corneal dystrophy , type i','granular');
 INSERT INTO cui_terms VALUES(1641846,0,5,'groenouw type i corneal dystrophy','groenouw');
 INSERT INTO cui_terms VALUES(1641846,0,1,'gcd1','gcd1');

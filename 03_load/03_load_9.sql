@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(416782,5,6,'accidental poisoning caused by caustic alkalis','alkalis');
 INSERT INTO cui_terms VALUES(416783,5,6,'accidental poisoning caused by sodium hydroxide','hydroxide');
 INSERT INTO cui_terms VALUES(416783,4,5,'accidental poisoning by sodium hydroxide','hydroxide');

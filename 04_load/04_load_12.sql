@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(1827004,3,5,'structure of second premolar tooth','premolar');
 INSERT INTO cui_terms VALUES(1826998,3,5,'structure of central incisor tooth','incisor');
 INSERT INTO cui_terms VALUES(1827034,0,4,'leukaemic infiltration of orbit','leukaemic');

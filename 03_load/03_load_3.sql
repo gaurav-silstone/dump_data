@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(273692,3,10,'insect bite , nonvenomous , of chest wall , infected','nonvenomous');
 INSERT INTO cui_terms VALUES(273692,0,8,'nonvenomous insect bite of chest wall with infection','nonvenomous');
 INSERT INTO cui_terms VALUES(273693,7,13,'superficial foreign body of chest wall without major open wound and without infection','major');

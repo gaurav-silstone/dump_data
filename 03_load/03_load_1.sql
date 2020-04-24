@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(261404,3,7,'accidental poisoning by butyrophenone - based tranquilizer','butyrophenone');
 INSERT INTO cui_terms VALUES(261411,3,4,'acc poisn - psychstimulant','psychstimulant');
 INSERT INTO cui_terms VALUES(261411,3,4,'accidental poisoning by psychostimulants','psychostimulants');

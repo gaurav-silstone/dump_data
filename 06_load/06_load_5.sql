@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO PREFTERM VALUES(222699,'Structure of orbital plate of ethmoid bone');
 INSERT INTO PREFTERM VALUES(222698,'Structure of nasal spine of frontal bone');
 INSERT INTO PREFTERM VALUES(222697,'Structure of crista frontalis');

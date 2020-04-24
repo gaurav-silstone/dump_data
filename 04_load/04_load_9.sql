@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(3473248,3,6,'benzyl alcohol / calamine / diphenhydramine','calamine');
 INSERT INTO cui_terms VALUES(3473243,0,2,'refresh drops','refresh');
 INSERT INTO cui_terms VALUES(3473228,0,3,'moringa oleifera bark','moringa');

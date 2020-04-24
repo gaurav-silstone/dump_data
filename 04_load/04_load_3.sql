@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(796545,2,6,'peg - ifn - a 2b','ifn');
 INSERT INTO cui_terms VALUES(796545,2,5,'peg - ifnalpha - 2b','ifnalpha');
 INSERT INTO cui_terms VALUES(796545,2,6,'peg - ifn alpha - 2b','ifn');

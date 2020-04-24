@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(302921,1,2,'acid strong','strong');
 INSERT INTO cui_terms VALUES(302921,0,2,'strong acid','strong');
 INSERT INTO cui_terms VALUES(302921,0,2,'corrosive acid','corrosive');

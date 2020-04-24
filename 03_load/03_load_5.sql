@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(334209,0,3,'luteoma , pregnancy','luteoma');
 INSERT INTO cui_terms VALUES(334209,1,2,'pregnancy luteoma','luteoma');
 INSERT INTO cui_terms VALUES(334209,3,5,'nodular theca - lutein hyperplasia','lutein');

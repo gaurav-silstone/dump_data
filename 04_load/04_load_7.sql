@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(1286806,5,10,'finding related to ability to move up and down bed','move');
 INSERT INTO cui_terms VALUES(1286805,6,10,'finding related to ability to turn onto side in bed','onto');
 INSERT INTO cui_terms VALUES(1286804,5,9,'finding related to ability to roll over in bed','roll');

@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO PREFTERM VALUES(398483,'Excision of lymphedematous tissue of scrotum');
 INSERT INTO PREFTERM VALUES(398480,'Drainage of lymphatics');
 INSERT INTO PREFTERM VALUES(398481,'Enteromesenteric bridge operation');

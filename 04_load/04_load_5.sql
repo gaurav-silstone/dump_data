@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(3282691,0,1,'tetradecene','tetradecene');
 INSERT INTO cui_terms VALUES(3282688,0,3,'epc - k1','epc');
 INSERT INTO cui_terms VALUES(3282688,1,4,'potassium ascorbyl tocopheryl phosphate','ascorbyl');

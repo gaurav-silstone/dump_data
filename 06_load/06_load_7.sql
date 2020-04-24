@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO PREFTERM VALUES(314693,'Oncogene protein neu');
 INSERT INTO PREFTERM VALUES(314694,'Oncogene protein fins');
 INSERT INTO PREFTERM VALUES(314688,'Oncogene protein N-RAS');

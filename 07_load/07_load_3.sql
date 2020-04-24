@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO PREFTERM VALUES(1270379,'ACTH specific immunoglobulin E');
 INSERT INTO PREFTERM VALUES(1270378,'Echinococcus specific immunoglobulin E');
 INSERT INTO PREFTERM VALUES(1270377,'Ascaris specific immunoglobulin E');

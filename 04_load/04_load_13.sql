@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(1960391,2,6,'freeing of extensive adhesions of peritoneum','extensive');
 INSERT INTO cui_terms VALUES(1960390,0,2,'coblation tonsillectomy','coblation');
 INSERT INTO cui_terms VALUES(1960390,3,4,'plasma mediated ablation tonsillectomy','tonsillectomy');

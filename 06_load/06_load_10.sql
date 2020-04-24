@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO PREFTERM VALUES(447682,'Fascia of cervical spine');
 INSERT INTO PREFTERM VALUES(447683,'Anterior rectus sheath');
 INSERT INTO PREFTERM VALUES(447680,'Fascia of thoracic spine');

@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO PREFTERM VALUES(1998317,'History of malignant neoplasm of skin');
 INSERT INTO PREFTERM VALUES(1998315,'Recurrent dislocation of hip joint prosthesis');
 INSERT INTO PREFTERM VALUES(1998312,'History of otitis media');

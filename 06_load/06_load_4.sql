@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO PREFTERM VALUES(190087,'Aortic valve commissurotomy with inflow occlusion');
 INSERT INTO PREFTERM VALUES(190084,'Closed heart valvotomy of mitral valve');
 INSERT INTO PREFTERM VALUES(190085,'Aortic valvotomy');

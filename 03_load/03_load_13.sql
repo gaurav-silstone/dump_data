@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(2584909,8,13,'open reduction and internal fixation of fracture of calcaneum with autogenous bone graft','calcaneum');
 INSERT INTO cui_terms VALUES(2584908,1,9,'ventricular restoration procedure of heart using prosthetic patch graft','restoration');
 INSERT INTO cui_terms VALUES(2584907,7,8,'reconstruction of cranial and facial bones using autograft','autograft');

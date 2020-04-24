@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO PREFTERM VALUES(546047,'Ventral primary division of four upper cervical nerves');
 INSERT INTO PREFTERM VALUES(546034,'Spinocerebellar tract of pons');
 INSERT INTO PREFTERM VALUES(546061,'Dorsal digital nerves of foot');

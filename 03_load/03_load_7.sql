@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(393546,0,4,'oculopharyngeal spinal muscular atrophy','oculopharyngeal');
 INSERT INTO cui_terms VALUES(393547,0,2,'kennedys syndrome','kennedys');
 INSERT INTO cui_terms VALUES(393547,0,3,'bulbospinal muscular atrophy','bulbospinal');

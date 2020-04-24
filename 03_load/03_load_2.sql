@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(268292,0,7,'cah - 11 beta - hydroxylase deficiency','cah');
 INSERT INTO cui_terms VALUES(268292,4,6,'11 - beta - hydroxylase deficiency','hydroxylase');
 INSERT INTO cui_terms VALUES(268292,0,2,'p450c11b1 deficiency','p450c11b1');

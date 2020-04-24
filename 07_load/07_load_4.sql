@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO PREFTERM VALUES(1293484,'Gastrointestinal tract reconstruction');
 INSERT INTO PREFTERM VALUES(1293523,'Large intestine closure');
 INSERT INTO PREFTERM VALUES(1293522,'Large intestine injection');

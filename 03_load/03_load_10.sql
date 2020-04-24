@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(428461,1,4,'serum vldl cholesterol measurement','vldl');
 INSERT INTO cui_terms VALUES(428458,0,4,'uric acid bladder stone','uric');
 INSERT INTO cui_terms VALUES(428459,2,3,'phosphate bladder stone','stone');

@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(717898,3,4,'magnesium amino acids chelate','chelate');
 INSERT INTO cui_terms VALUES(717898,3,4,'magnesium amino acid chelate','chelate');
 INSERT INTO cui_terms VALUES(717899,3,5,'magnesium hydroxide / mineral oil','mineral');

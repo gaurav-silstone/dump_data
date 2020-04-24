@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(1531678,2,3,'diastolic pressure equalization','equalization');
 INSERT INTO cui_terms VALUES(1531677,0,3,'diaphragm pacemaker rate','diaphragm');
 INSERT INTO cui_terms VALUES(1531677,1,3,'diaphragm pacing rate','pacing');

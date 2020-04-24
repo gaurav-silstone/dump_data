@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(345453,3,4,'congenital malformation of thymus','thymus');
 INSERT INTO cui_terms VALUES(345453,4,5,'congenital anomaly of the thymus','thymus');
 INSERT INTO cui_terms VALUES(345454,1,3,'accessory thymus gland','thymus');

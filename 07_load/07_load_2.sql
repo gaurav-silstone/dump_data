@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO PREFTERM VALUES(2929920,'Lidocaine / Triamcinolone');
 INSERT INTO PREFTERM VALUES(2929921,'Alternaria alternata allergenic extract / Cladosporium cladosporioides allergenic extract');
 INSERT INTO PREFTERM VALUES(2929922,'Acetaminophen / Antipyrine / Caffeine');

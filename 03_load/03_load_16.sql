@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(577028,0,4,'observation of small intestine','observation');
 INSERT INTO cui_terms VALUES(577029,2,4,'observation of large intestine','large');
 INSERT INTO cui_terms VALUES(577029,2,4,'finding of large intestine','large');

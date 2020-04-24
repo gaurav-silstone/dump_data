@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(456845,0,2,'non-secretory myeloma','non-secretory');
 INSERT INTO cui_terms VALUES(456843,2,3,'biliary dilatation intervention','intervention');
 INSERT INTO cui_terms VALUES(456841,2,3,'biliary drainage intervention','intervention');

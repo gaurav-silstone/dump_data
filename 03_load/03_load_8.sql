@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(404936,1,5,'incomplete illegal abortion with embolism','illegal');
 INSERT INTO cui_terms VALUES(404936,1,7,'incomplete illegal termination of pregnancy with embolism','illegal');
 INSERT INTO cui_terms VALUES(404937,1,5,'incomplete illegal abortion with shock','illegal');

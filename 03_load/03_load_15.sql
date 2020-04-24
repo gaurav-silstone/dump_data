@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(566771,2,7,'poor baseline variability in fetal heart rate','variability');
 INSERT INTO cui_terms VALUES(566773,1,3,'normal ctg tracing','ctg');
 INSERT INTO cui_terms VALUES(566773,1,3,'normal cardiotochogram tracing','cardiotochogram');

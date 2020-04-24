@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO PREFTERM VALUES(422034,'Fitness to drive rep fee paid');
 INSERT INTO PREFTERM VALUES(422035,'Fitness to drive rep - unpaid');
 INSERT INTO PREFTERM VALUES(422033,'Fitness to drive rep sent off');

@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(437921,6,7,'o / e - no bone abnormality','abnormality');
 INSERT INTO cui_terms VALUES(437934,4,5,'on examination - bone shortened','shortened');
 INSERT INTO cui_terms VALUES(437934,5,6,'o / e - bone shortened','shortened');

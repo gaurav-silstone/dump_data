@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(1298865,4,5,'infection due to mycobacterium cookii','cookii');
 INSERT INTO cui_terms VALUES(1298864,4,5,'infection due to mycobacterium conspicuum','conspicuum');
 INSERT INTO cui_terms VALUES(1298864,4,5,'infection caused by mycobacterium conspicuum','conspicuum');

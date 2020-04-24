@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO PREFTERM VALUES(266893,'Subgingival dental calculus');
 INSERT INTO PREFTERM VALUES(266894,'Supragingival dental calculus');
 INSERT INTO PREFTERM VALUES(2364078,'Lack of family support');
