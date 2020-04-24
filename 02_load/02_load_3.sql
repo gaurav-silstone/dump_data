@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(16037,1,3,'progressive ossifying myositis','ossifying');
 INSERT INTO cui_terms VALUES(16037,0,2,'muenchmeyer syndrome','muenchmeyer');
 INSERT INTO cui_terms VALUES(16038,0,1,'fibroelastosis','fibroelastosis');

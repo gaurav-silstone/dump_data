@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(189306,0,2,'larynx reconstruction','larynx');
 INSERT INTO cui_terms VALUES(189304,2,4,'repair of laryngotracheal cleft','laryngotracheal');
 INSERT INTO cui_terms VALUES(189305,0,4,'marsupialization of laryngeal cyst','marsupialization');

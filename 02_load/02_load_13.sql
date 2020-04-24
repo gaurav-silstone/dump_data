@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(2315267,6,7,'radionuclide imaging of adrenal gland using iodocholesterol','iodocholesterol');
 INSERT INTO cui_terms VALUES(2315265,0,9,'localized infection of skin and / or subcutaneous tissue','localized');
 INSERT INTO cui_terms VALUES(2315265,0,9,'localised infection of skin and / or subcutaneous tissue','localised');

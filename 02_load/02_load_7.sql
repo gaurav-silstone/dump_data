@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(52423,1,2,'arsenic trihydride','trihydride');
 INSERT INTO cui_terms VALUES(52423,0,1,'arsine','arsine');
 INSERT INTO cui_terms VALUES(52423,1,2,'hydrogen arsenide','arsenide');

@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(37753,3,5,'infection caused by spirometra larvae','spirometra');
 INSERT INTO cui_terms VALUES(37753,1,2,'larval diphyllobothriasis','diphyllobothriasis');
 INSERT INTO cui_terms VALUES(37753,0,1,'sparganosis','sparganosis');

@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(30190,2,3,'protein , serpine1','serpine1');
 INSERT INTO cui_terms VALUES(30190,0,3,'e1 , serpin','e1');
 INSERT INTO cui_terms VALUES(30190,0,4,'plasminogen activator inhibitor 01','plasminogen');

@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(97,0,1,'mptp','mptp');
 INSERT INTO cui_terms VALUES(97,0,1,'methylphenyltetrahydropyridine','methylphenyltetrahydropyridine');
 INSERT INTO cui_terms VALUES(102,0,1,'naphthalidine','naphthalidine');

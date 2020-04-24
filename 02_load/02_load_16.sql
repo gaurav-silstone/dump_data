@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(241518,2,3,'tympanic membrane retraction','retraction');
 INSERT INTO cui_terms VALUES(241518,0,4,'retraction of tympanic membrane','retraction');
 INSERT INTO cui_terms VALUES(241518,0,2,'eardrum retraction','eardrum');

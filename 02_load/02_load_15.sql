@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(229673,0,4,'visceral surface of spleen','visceral');
 INSERT INTO cui_terms VALUES(229673,1,3,'facies visceralis splenica','visceralis');
 INSERT INTO cui_terms VALUES(229673,1,8,'facies visceralis ( splen ) ( lien )','visceralis');

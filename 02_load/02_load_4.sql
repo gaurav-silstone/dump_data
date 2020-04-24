@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(22596,0,3,'keratodermas , palmoplantar','keratodermas');
 INSERT INTO cui_terms VALUES(22596,1,2,'palmoplantar keratodermas','keratodermas');
 INSERT INTO cui_terms VALUES(22596,5,6,'hyperkeratosis of the palms and soles','soles');

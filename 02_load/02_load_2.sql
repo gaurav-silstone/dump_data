@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(7873,3,4,'neoplasm of the cervix','cervix');
 INSERT INTO cui_terms VALUES(7874,0,1,'cervix','cervix');
 INSERT INTO cui_terms VALUES(7874,0,1,'cervixes','cervixes');

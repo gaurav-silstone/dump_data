@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(158738,1,5,'osseous syndactyly of the toes','syndactyly');
 INSERT INTO cui_terms VALUES(158738,0,7,'syndactyly of toes with fusion of bone','syndactyly');
 INSERT INTO cui_terms VALUES(158738,1,4,'complex syndactyly of toes','syndactyly');

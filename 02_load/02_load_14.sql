@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(225349,0,2,'pigment tissue','pigment');
 INSERT INTO cui_terms VALUES(225349,0,3,'pigmented connective tissue','pigmented');
 INSERT INTO cui_terms VALUES(225354,1,2,'glands mucous','mucous');

@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(149896,2,3,'acute arthritis gouty','gouty');
 INSERT INTO cui_terms VALUES(149896,1,3,'acute gouty arthritis','gouty');
 INSERT INTO cui_terms VALUES(149896,1,2,'primary gout','gout');

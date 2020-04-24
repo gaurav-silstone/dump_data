@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(78433,5,8,'s - ( 2 - diisopropylaminoethyl ) ethylmethylphosphonothioate','diisopropylaminoethyl');
 INSERT INTO cui_terms VALUES(78433,0,1,'vx','vx');
 INSERT INTO cui_terms VALUES(78433,0,1,'edim','edim');

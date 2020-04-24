@@ -1,3 +1,4 @@
+use umls;
 INSERT INTO cui_terms VALUES(198482,1,2,'abdomen surgeries','surgeries');
 INSERT INTO cui_terms VALUES(198482,0,4,'operation on abdominal region','operation');
 INSERT INTO cui_terms VALUES(198482,1,2,'abdomen surgery','surgery');
